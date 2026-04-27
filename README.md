@@ -30,3 +30,6 @@ I have upgraded my expenses-analyzer and indulged in it an opensource python fra
 ![Budet_vs_Actual](comparison-graph.png)
 ![Budet_vs_Actual](datewise-trend.png)
 ![Budet_vs_Actual](piechart.png)
+
+## Author 
+**MARYAM ZAHRA** (Electrical Engineering Graduate|Data and Power Systems Enthusiast)
