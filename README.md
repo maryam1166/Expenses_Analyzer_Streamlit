@@ -28,6 +28,6 @@ It helps analyze expenses from an Excel file and visualizes spending patterns us
 
 ## 📁 Output 
 ![Budet_vs_Actual](terminal.png)
-![Budet_vs_Actual](comparison-graph.png)
+
 ![Budet_vs_Actual](datewise-trend.png)
 ![Budet_vs_Actual](piechart.png)
